@@ -1,1 +1,1 @@
-[https://saskisalsabi.github.io/pgweb2026-acara7/](https://saskisalsabi.github.io/pgweb2026-acara7/)
+[Lihat Tabel HTML](https://saskisalsabi.github.io/pgweb2026-acara7/tabel.html)
